@@ -164,6 +164,7 @@ This endpoint redirects users to the original long URL.
 ---
 
 # 📸 Screenshots
+<img width="1836" height="954" alt="image" src="https://github.com/user-attachments/assets/600d8f2f-9363-45c3-91fa-fabb998bf523" />
 
 
 
